@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '1754'
     url: http://www.gutenberg.org/2009/agents/1754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28855#The-Girl-Scouts-at-Sea-Crest--Or-the-Wig-Wag-Rescue
 gutenberg_issued: '2009-05-17'
 gutenberg_type: Text
 identifiers:
