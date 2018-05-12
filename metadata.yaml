@@ -1,0 +1,29 @@
+_repo: The-Girl-Scouts-at-Sea-Crest--Or-the-Wig-Wag-Rescue_28855
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28855-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Lilian
+    aliases:
+    - Garis, Howard Roger, Mrs.
+    - Garis, Lilian C. McNamara
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '1754'
+    url: http://www.gutenberg.org/2009/agents/1754
+description: ''
+gutenberg_issued: '2009-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girl Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Girl Scouts at Sea Crest; Or, the Wig Wag Rescue
+url: http://www.gutenberg.org/ebooks/28855
